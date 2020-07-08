@@ -1,6 +1,8 @@
 # Exemplary publications
 
+<span style="color: #267CB9"> Some green text </span>
 
+I am a full-time researcher at Centro de Medición MIDE UC, at Pontificia Universidad Católica de Chile. I hold a Doctoral degree in Psychology and a Master of Research in Psychological Methods from the University of Sussex. My work focuses on contextual effects research involving measurement and inferential problems for nested observations. This research line includes methodological challenges to national and international large-scale assessment, present in the exercise of school comparisons and learning environments research; I focus on substantive applications on civic education, teacher turnover, and judges voting behavior.
 
 ### Civic Education
 
