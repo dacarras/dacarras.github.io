@@ -16,6 +16,12 @@ Carrasco, D., Banerjee, R., Treviño, E., & Villalobos, C. (2020). Civic knowled
 Carrasco, D., Manzi, J., & Treviño, E. (2018). Trayectorias laborales de los docentes : ¿dónde, cuándo y bajo qué condiciones dejan su primer trabajo? Temas de La Agenda Pública, (105). Retrieved from https://politicaspublicas.uc.cl/wp-content//uploads/2018/09/Trayectorias-laborales-de-los-docentes.pdf
 
 
+### <span style="color: #267CB9"> Teacher practices </span>
+
+
+Escribano, R., Treviño, E., Nussbaum, M., Torres Irribarra, D., & Carrasco, D. (2020). How much does the quality of teaching vary at under-performing schools? Evidence from classroom observations in Chile. International Journal of Educational Development, 72(October 2019), 102125. https://doi.org/10.1016/j.ijedudev.2019.102125
+
+
 ### <span style="color: #267CB9"> Judges Behaviour </span>
 
 
