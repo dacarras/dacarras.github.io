@@ -1,8 +1,8 @@
-# [Short bio]{style="color:#267CB9"} {style="color: red"}
+# [Short bio]{style="color: #267CB9"}
 
 I am a full-time researcher at Centro de Medición MIDE UC, at Pontificia Universidad Católica de Chile. I hold a Doctoral degree in Psychology and a Master of Research in Psychological Methods from the University of Sussex. I regularly teach on post-grad courses of quantitative methods, including latent variables and multilevel models. Similarly, I often participate as an instructor of workshops on large scale assessment research, using `R` and `Mplus`. My research work focuses on contextual effects research involving measurement and inferential problems for nested observations. This research line includes methodological challenges to national and international large-scale assessment, present in the exercise of school comparisons and learning environments research. I focus on substantive applications on civic education, teachers research, and judges voting behavior; and psychometrics research in large scale assessment.<br><br>
 
-## [Exemplary publications]{style="color: #267CB9"}
+## Exemplary publications {style="color: #267CB9"}
 
 ### [Psychometrics]{style="color: #267CB9"}
 
@@ -24,13 +24,13 @@ Escribano, R., Treviño, E., Nussbaum, M., Torres Irribarra, D., & Carrasco, D. 
 
 Carrasco, D., Manzi, J., & Treviño, E. (2018). Trayectorias laborales de los docentes : ¿dónde, cuándo y bajo qué condiciones dejan su primer trabajo? Temas de La Agenda Pública, (105). Retrieved from <https://politicaspublicas.uc.cl/wp-content//uploads/2018/09/Trayectorias-laborales-de-los-docentes.pdf>
 
-### [Judges Behaviour]{style="color: #267CB9"}
-
-Pavón Mediano, A., & Carrasco, D. (2019). Ideology beyond partisanship: The behavior of judges on freedom of information cases in Chile. Government Information Quarterly. <https://doi.org/10.1016/j.giq.2019.05.007>
-
 ### [Learning Environment research]{style="color: #267CB9"}
 
 Carrasco, D., Banerjee, R., López-Hornickel, N., & Treviño, E. (2022). Indirect effects of bullying on school mathematics achievement in Chile. Studies in Educational Evaluation, 74(April), 101172. <https://doi.org/10.1016/j.stueduc.2022.101172>
+
+### [Judges Behaviour]{style="color: #267CB9"}
+
+Pavón Mediano, A., & Carrasco, D. (2019). Ideology beyond partisanship: The behavior of judges on freedom of information cases in Chile. Government Information Quarterly. <https://doi.org/10.1016/j.giq.2019.05.007>
 
 ------------------------------------------------------------------------
 
