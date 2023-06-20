@@ -14,6 +14,8 @@ Carrasco, D., Treviño, E., López Hornickel, N., & Castillo, C. (2021). Student
 
 ### <span style="color: #267CB9"> Civic Education </span>
 
+Carrasco, D., & Pavón, A. (2021). Tolerance of corruption among students in Latin America. In E. Treviño, D. Carrasco, E. Claes, & K. Kennedy (Eds.), Good Citizenship for the Next Generation. A Global Perspective Using IEA ICCS 2016 Data. Springer International. <https://link.springer.com/chapter/10.1007/978-3-030-75746-5_7>
+
 Treviño, E., Carrasco, D., Claes, E., & Kennedy, K. (2021). Good Citizenship for the Next Generation (E. Treviño, D. Carrasco, E. Claes, & K. J. Kennedy (eds.); Vol. 12). Springer International Publishing. <https://doi.org/10.1007/978-3-030-75746-5>
 
 Carrasco, D., Banerjee, R., Treviño, E., & Villalobos, C. (2020). Civic knowledge and open classroom discussion: explaining tolerance of corruption among 8th-grade students in Latin America. Educational Psychology, 40(2), 186--206. <https://doi.org/10.1080/01443410.2019.1699907>
