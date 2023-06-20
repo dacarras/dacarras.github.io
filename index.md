@@ -6,6 +6,8 @@ I am a full-time researcher at Centro de Medición MIDE UC, at Pontificia Univer
 
 ### <span style="color: #267CB9"> Psychometrics </span>
 
+Carrasco, D., Irribarra, D. T., & González, J. (2023). Continuation Ratio Model for Polytomous Responses with Censored Like Latent Classes. In M. Wiberg, D. Molenaar, J. González, J.-S. Kim, & H. Hwang (Eds.), Quantitative Psychology (pp. 243–256). Springer. <https://doi.org/10.1007/978-3-031-27781-8_22>
+
 Carrasco, D., Irribarra, D.T., González, J. (2022). Continuation Ratio Model for Polytomous Items Under Complex Sampling Design. In: Wiberg, M., Molenaar, D., González, J., Kim, JS., Hwang, H. (eds) Quantitative Psychology. IMPS 2021. Springer Proceedings in Mathematics & Statistics, vol 393. Springer, Cham. <https://doi.org/10.1007/978-3-031-04572-1_8>
 
 Carrasco, D., Treviño, E., López Hornickel, N., & Castillo, C. (2021). Students Ratings Their Open Classroom Discussion. In M. Wiberg, D. Molenaar, J. González, U. Böckenholt, & J.-S. Kim (Eds.), Quantitative Psychology (pp. 463--475). Springer International Publishing. <https://doi.org/10.1007/978-3-030-74772-5_41>
