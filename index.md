@@ -1,6 +1,6 @@
 # <span style="color: #267CB9"> Short bio </span>
 
-I am a full-time researcher at Centro de Medición MIDE UC, at Pontificia Universidad Católica de Chile. I hold a Doctoral degree in Psychology and a Master of Research in Psychological Methods from the University of Sussex. I regularly teach on post-grad courses of quantitative methods, including latent variables and multilevel models. Similarly, I often participate as an instructor of workshops on large scale assessment research, using `R` and `Mplus`. My research work focuses on contextual effects research involving measurement and inferential problems for nested observations. This research line includes methodological challenges to national and international large-scale assessment, present in the exercise of school comparisons and learning environments research. I focus on substantive applications on civic education, teachers research, and judges voting behavior; and psychometrics research in large scale assessment.<br><br>
+I am a Associate Researcher at the Centro de Medición MIDE UC, at Pontificia Universidad Católica de Chile. I hold a Doctoral degree in Psychology and a Master of Research in Psychological Methods from the University of Sussex. I regularly teach on post-grad courses of quantitative methods, including latent variables and multilevel models. Similarly, I often participate as an instructor of workshops on large scale assessment research, using `R` and `Mplus`. My research work focuses on contextual effects research involving measurement and inferential problems for nested observations. This research line includes methodological challenges to national and international large-scale assessment, present in the exercise of school comparisons and learning environments research. I focus on substantive applications on civic education, teachers research, and judges voting behavior; and psychometrics research in large scale assessment.<br><br>
 
 ## <span style="color: #267CB9"> Exemplary publications </span>
 
@@ -34,6 +34,8 @@ Carrasco, D., Manzi, J., & Treviño, E. (2018). Trayectorias laborales de los do
 Carrasco, D., Banerjee, R., López-Hornickel, N., & Treviño, E. (2022). Indirect effects of bullying on school mathematics achievement in Chile. Studies in Educational Evaluation, 74(April), 101172. <https://doi.org/10.1016/j.stueduc.2022.101172>
 
 ### <span style="color: #267CB9"> Judges Behaviour </span>
+
+Pavón Mediano, A., Carrasco Ogaz, D., & Pardow Lorenzo, D. (2023). Ideología y comportamiento judicial en jueces de carrera: Estimación de puntos ideales en la Corte Suprema de Chile (2009-2019). Revista de Ciencia Política (Santiago). https://doi.org/10.4067/s0718-090x2023005000107
 
 Pavón Mediano, A., & Carrasco, D. (2019). Ideology beyond partisanship: The behavior of judges on freedom of information cases in Chile. Government Information Quarterly. <https://doi.org/10.1016/j.giq.2019.05.007>
 
