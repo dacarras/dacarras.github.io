@@ -1,12 +1,14 @@
 # <span style="color: #267CB9"> Short bio </span>
 
-I hold an academic position at the Pontificia Universidad Católica de Chile, as researcher for the Centro de Medición MIDE UC. I have a Doctoral degree in Psychology and a Master of Research in Psychological Methods from the University of Sussex. I regularly teach on post-grad courses of quantitative methods, including item response models, latent variables and multilevel models. I often participate as an instructor of workshops on large scale assessment research, using `R` and `Mplus`. My research work focuses on methodological challenges in the study of nested observations, including measurement and inferential problems in large scale assessment. This research line includes methodological problems present in national and international large-scale assessments studies, specially in the exercise of school comparisons and learning environments research. I focus on substantive applications on civic education, teachers research, and judges voting behavior; and psychometrics research in large scale assessment.<br><br>
+I hold an academic position at the Pontificia Universidad Católica de Chile, as a researcher for the Centro de Medición MIDE UC. I have a Doctoral degree in Psychology and a Master of Research in Psychological Methods from the University of Sussex. I regularly teach on post-grad courses of quantitative methods, including item response models, latent variables and multilevel models. I often participate as an instructor of workshops on large scale assessment research, using `R` and `Mplus`. My research work focuses on methodological challenges in the study of nested observations, including measurement and inferential problems in large scale assessment. This research line includes methodological problems present in national and international large-scale assessments studies, specially in the exercise of school comparisons and learning environments research. I focus on substantive applications on civic education, teachers research, and judges voting behavior; and psychometrics research in large scale assessment.<br><br>
 
 Interested in having a workshop at your university or workplace? drop me an email.
 
 ## <span style="color: #267CB9"> Exemplary publications </span>
 
 ### <span style="color: #267CB9"> Psychometrics </span>
+
+Carrasco, D., Rutkowski, D., & Rutkowski, L. (2023). The advantages of regional large-scale assessments: Evidence from the ERCE learning survey. International Journal of Educational Development, 102(May), p. 102867. Retrieved from https://doi.org/10.1016/j.ijedudev.2023.102867
 
 Carrasco, D., Irribarra, D. T., & González, J. (2023). Continuation Ratio Model for Polytomous Responses with Censored Like Latent Classes. In M. Wiberg, D. Molenaar, J. González, J.-S. Kim, & H. Hwang (Eds.), Quantitative Psychology (pp. 243–256). Springer. <https://doi.org/10.1007/978-3-031-27781-8_22>
 
