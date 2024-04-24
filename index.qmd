@@ -1,15 +1,39 @@
 ---
-title: "dacarras.github.io"
+title: 'dacarras'
+toc: true
+toc-location: left
+toc-expand: true
+navbar: false
 ---
 
-# Short bio
+:::{.column-margin}
+
+![](/images/dacarras_2017_oval.png){width=30%}
+
+<br>
+Hi, i'm Diego or dacarras. I'm a methodologist who works in large-scale assessments (ILSA) studies. I do research in psychometrics, and on inferential challenges. I do applied work on civic education, teachers research, and judges behaviour.
+
+<br>
+ You can reach me at dacarras.at.uc.cl 
+ <br><br>
+ <a href="https://www.linkedin.com/in/dacarras/">View My LinkedIn Profile</a> 
+ <br><br>
+ <a href="https://www.researchgate.net/profile/Diego-Carrasco-8/">View My researchgate Profile</a> 
+ <br><br>
+ <a href="https://github.com/dacarras/">View My Github Profile</a> 
+ <br><br>
+
+:::
+
+
+
+ 
+
+
+## <span style="color: #267CB9"> Short bio </span>
 
 I hold an academic position at the Pontificia Universidad Católica de Chile as an Assistant Research Professor for the [Centro de Medición MIDE UC](https://mideuc.cl/equipo-de-trabajo-in/diego-carrasco/). I have a Doctoral degree in Psychology and a Master of Research in Psychological Methods from the University of Sussex. I regularly teach post-grad courses in quantitative methods, including item response models, latent variables, and multilevel models. I often participate as an instructor of large-scale assessment research workshops using `R` and `Mplus`. My research focuses on methodological challenges in the study of nested observations, including measurement and inferential problems in large-scale assessment. This research line includes methodological problems present in national and international large-scale assessment studies, especially in the exercise of school comparisons and learning environments research. I often do multidisciplinary work and am fortunate to collaborate with colleagues from psychometrics, education, psychology, sociology, law, and political science. I focus on substantive applications in civic education, teachers in schools, judges voting behavior, and psychometrics research in large-scale assessment.
 
-
-```{r}
-1 + 1
-```
 
 Interested in having a workshop at your university or workplace? drop me an email.
 
