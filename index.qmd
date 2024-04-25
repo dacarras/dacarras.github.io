@@ -13,28 +13,29 @@ navbar: false
 <br>
 Hi, i'm Diego or dacarras. I'm a methodologist who works in large-scale assessments (ILSA) studies. I do research in psychometrics, and on inferential challenges. I do applied work on civic education, teachers research, and judges behaviour.
 
-<br>
- You can reach me at dacarras.at.uc.cl 
+
  <br><br>
- <a href="https://www.linkedin.com/in/dacarras/">View My LinkedIn Profile</a> 
+ <a href="mailto:dacarras@uc.cl">email me</a> 
  <br><br>
- <a href="https://www.researchgate.net/profile/Diego-Carrasco-8/">View My researchgate Profile</a> 
+ <a href="https://www.researchgate.net/profile/Diego-Carrasco-8/">Researchgate</a> 
  <br><br>
- <a href="https://github.com/dacarras/">View My Github Profile</a> 
+ <a href="https://github.com/dacarras/">Github</a> 
+ <br><br>
+ <a href="https://www.linkedin.com/in/dacarras/">LinkedIn</a> 
  <br><br>
 
 :::
 
-## <span style="color: #267CB9"> Short bio </span>
+## <span style="color: #0453B4"> Short bio </span>
 
 I hold an academic position at the Pontificia Universidad Católica de Chile as an Assistant Research Professor for the [Centro de Medición MIDE UC](https://mideuc.cl/equipo-de-trabajo-in/diego-carrasco/). I have a Doctoral degree in Psychology and a Master of Research in Psychological Methods from the University of Sussex. I regularly teach post-grad courses in quantitative methods, including item response models, latent variables, and multilevel models. I often participate as an instructor of large-scale assessment research workshops using `R` and `Mplus`. My research focuses on methodological challenges present to nested observations, including measurement and inferential problems. This research line includes methodological challenges common to school comparisons and learning environments research embedded in large-scale assessment studies. I often do multidisciplinary work and am fortunate to collaborate with colleagues from psychometrics, education, psychology, sociology, law, and political science. I focus on substantive applications in civic education, teachers in schools, judges voting behavior, and psychometrics research in large-scale assessment.
 
 
 Interested in having a workshop at your university or workplace? drop me an email.
 
-## <span style="color: #267CB9"> Exemplary publications </span>
+## <span style="color: #0453B4"> Exemplary publications </span>
 
-### <span style="color: #267CB9"> Psychometrics </span>
+### <span style="color: #0453B4"> Psychometrics </span>
 
 Carrasco, D., Rutkowski, D., & Rutkowski, L. (2023). The advantages of regional large-scale assessments: Evidence from the ERCE learning survey. International Journal of Educational Development, 102(May), p. 102867. Retrieved from https://doi.org/10.1016/j.ijedudev.2023.102867
 
@@ -44,7 +45,7 @@ Carrasco, D., Irribarra, D.T., González, J. (2022). Continuation Ratio Model fo
 
 Carrasco, D., Treviño, E., López Hornickel, N., & Castillo, C. (2021). Students Ratings Their Open Classroom Discussion. In M. Wiberg, D. Molenaar, J. González, U. Böckenholt, & J.-S. Kim (Eds.), Quantitative Psychology (pp. 463--475). Springer International Publishing. <https://doi.org/10.1007/978-3-030-74772-5_41>
 
-### <span style="color: #267CB9"> Civic Education </span>
+### <span style="color: #0453B4"> Civic Education </span>
 
 Carrasco, D., & Pavón, A. (2021). Tolerance of corruption among students in Latin America. In E. Treviño, D. Carrasco, E. Claes, & K. Kennedy (Eds.), Good Citizenship for the Next Generation. A Global Perspective Using IEA ICCS 2016 Data. Springer International. <https://link.springer.com/chapter/10.1007/978-3-030-75746-5_7>
 
@@ -52,7 +53,7 @@ Treviño, E., Carrasco, D., Claes, E., & Kennedy, K. (2021). Good Citizenship fo
 
 Carrasco, D., Banerjee, R., Treviño, E., & Villalobos, C. (2020). Civic knowledge and open classroom discussion: explaining tolerance of corruption among 8th-grade students in Latin America. Educational Psychology, 40(2), 186--206. <https://doi.org/10.1080/01443410.2019.1699907>
 
-### <span style="color: #267CB9"> Teachers in schools </span>
+### <span style="color: #0453B4"> Teachers in schools </span>
 
 Órdenes, M., Treviño, E., Escribano, R., & Carrasco, D. (2022). Teacher motivation in Chile: Motivational profiles and teaching quality in an incentive-based education system. Research in Education, 0(0), 003452372210905. <https://doi.org/10.1177/00345237221090541>
 
@@ -60,12 +61,12 @@ Escribano, R., Treviño, E., Nussbaum, M., Torres Irribarra, D., & Carrasco, D. 
 
 Carrasco, D., Manzi, J., & Treviño, E. (2018). Trayectorias laborales de los docentes : ¿dónde, cuándo y bajo qué condiciones dejan su primer trabajo? Temas de La Agenda Pública, (105). Retrieved from <https://politicaspublicas.uc.cl/wp-content//uploads/2018/09/Trayectorias-laborales-de-los-docentes.pdf>
 
-### <span style="color: #267CB9"> Learning Environment research </span>
+### <span style="color: #0453B4"> Learning Environment research </span>
 
 
 Carrasco, D., Banerjee, R., López-Hornickel, N., & Treviño, E. (2022). Indirect effects of bullying on school mathematics achievement in Chile. Studies in Educational Evaluation, 74(April), 101172. <https://doi.org/10.1016/j.stueduc.2022.101172>
 
-### <span style="color: #267CB9"> Judges Behaviour </span>
+### <span style="color: #0453B4"> Judges Behaviour </span>
 
 Pavón Mediano, A., Carrasco Ogaz, D., & Pardow Lorenzo, D. (2023). Ideología y comportamiento judicial en jueces de carrera: Estimación de puntos ideales en la Corte Suprema de Chile (2009-2019). Revista de Ciencia Política (Santiago). https://doi.org/10.4067/s0718-090x2023005000107
 
