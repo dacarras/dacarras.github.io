@@ -11,7 +11,7 @@ navbar: false
 ![](/images/dacarras_2017_oval.png){width=30%}
 
 <br>
-Hi, i'm Diego or dacarras. I'm a methodologist who works in large-scale assessments (ILSA) studies. I do research in psychometrics, and on inferential challenges. I do applied work on civic education, teachers research, and judges behaviour.
+Hi, i'm Diego or dacarras. I'm a methodologist who works in large-scale assessments (ILSA) studies. I do research in psychometrics, and on inferential challenges involving students and teachers in schools. I do applied work on civic education, teachers research, and judges behaviour.
 
 
  <br><br>
